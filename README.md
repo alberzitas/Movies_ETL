@@ -1,4 +1,4 @@
-# Movies_ETL
+# Movies ETL
 
 ## Overview and Purpose
 
